@@ -25,6 +25,7 @@ The goal is to track performance trends, identify market movers, and provide act
 4. Visualization using (Python libraries: Pandas, Matplotlib, Plotly etc.)
 5. (Add any ML/statistical analysis if applicable)
 
+## Sample Output
 
 ## How to Use
 1. Clone repository

@@ -23,7 +23,6 @@ The goal is to track performance trends, identify market movers, and provide act
 2. Data cleaning and normalization
 3. Calculation of derived metrics
 4. Visualization using (Python libraries: Pandas, Matplotlib, Plotly etc.)
-5. (Add any ML/statistical analysis if applicable)
 
 ## Future Enhancements
 - Add sector-wise analysis

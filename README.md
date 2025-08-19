@@ -16,9 +16,7 @@ The goal is to track performance trends, identify market movers, and provide act
 - Visualization of trends and correlations between metrics
 
 ## Data Sources
-- Bursa Malaysia market data feeds
-- Yahoo Finance API (or specify your source)
-- (Add any other data providers you use)
+- Stock Analysis market data feeds
 
 ## Methodology
 1. Automated data collection (web scraping/API calls)

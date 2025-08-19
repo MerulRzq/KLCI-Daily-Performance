@@ -16,7 +16,7 @@ The goal is to track performance trends, identify market movers, and provide act
 - Visualization of trends and correlations between metrics
 
 ## Data Sources
-- Stock Analysis market data feeds [https://stockanalysis.com/list/bursa-malaysia/]
+- Stock Analysis market data feeds (https://stockanalysis.com/list/bursa-malaysia/)
 
 ## Methodology
 1. Automated data collection (web scraping/API calls)

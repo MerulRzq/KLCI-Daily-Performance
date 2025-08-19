@@ -26,7 +26,7 @@ The goal is to track performance trends, identify market movers, and provide act
 5. (Add any ML/statistical analysis if applicable)
 
 ## Sample Output
-![Sample Visualization](Change%.png)
+![Sample](Change%.png)
 
 ## How to Use
 1. Clone repository

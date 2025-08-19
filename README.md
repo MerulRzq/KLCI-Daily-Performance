@@ -26,6 +26,7 @@ The goal is to track performance trends, identify market movers, and provide act
 5. (Add any ML/statistical analysis if applicable)
 
 ## Sample Output
+![Sample Visualization](/Users/amirulraziq/Documents/GitHub/KLCI_StockAnalysis/Change%.png)
 
 ## How to Use
 1. Clone repository

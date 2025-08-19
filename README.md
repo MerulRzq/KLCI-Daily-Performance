@@ -1,4 +1,4 @@
-# KLCI Public Listed Companies Analysis
+# 📊 KLCI Public Listed Companies Analysis
 
 ## Project Overview
 This project involves real-time monitoring and analysis of companies listed on the **FTSE Bursa Malaysia KLCI Index**. The analysis focuses on key financial metrics including:

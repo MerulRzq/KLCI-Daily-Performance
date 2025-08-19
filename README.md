@@ -25,12 +25,9 @@ The goal is to track performance trends, identify market movers, and provide act
 4. Visualization using (Python libraries: Pandas, Matplotlib, Plotly etc.)
 5. (Add any ML/statistical analysis if applicable)
 
-## Sample Output
-![Sample](Change%.png)
-
 ## How to Use
 1. Clone repository
-2. Install dependencies: `pip install -r requirements.txt`
+2. Install dependencies: `pip install 3.9.23`
 3. Run main script: `python analysis.py`
 4. View generated reports in `/output` folder
 
